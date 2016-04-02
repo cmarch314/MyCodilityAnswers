@@ -36,8 +36,10 @@ int solution(int X, vector<int> &A) {
 although this is straight foward question, 
 it is ambiguous to perform better using bitmap
 bitmap may reduce the space
-number of comparisson may be same as I used
-
+since bitset<int> requires shift to navigate index
+also integer(32bit) bitmap also requires divisions and mods
+there's no garanteed optimization until actual measurement. 
+time complexity may be same as I used
 N = A.size()
 time complexity O(N)
 space complexity O(X)
