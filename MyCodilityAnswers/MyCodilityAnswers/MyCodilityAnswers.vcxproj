@@ -81,6 +81,7 @@
     <ClCompile Include="BinaryGap.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="FrogJmp.cpp" />
+    <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
     <ClCompile Include="PermMissingElem.cpp" />
     <ClCompile Include="TapeEquilibrium.cpp" />
