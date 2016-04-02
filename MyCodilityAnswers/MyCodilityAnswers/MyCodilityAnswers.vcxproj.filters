@@ -27,5 +27,8 @@
     <ClCompile Include="FrogJmp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TapeEquilibrium.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
