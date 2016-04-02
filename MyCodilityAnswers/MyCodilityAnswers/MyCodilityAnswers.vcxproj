@@ -82,6 +82,7 @@
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="FrogRiverOne.cpp" />
+    <ClCompile Include="MissingInteger.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
     <ClCompile Include="PermCheck.cpp" />
     <ClCompile Include="PermMissingElem.cpp" />
