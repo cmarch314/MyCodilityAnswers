@@ -83,6 +83,7 @@
     <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
+    <ClCompile Include="PermCheck.cpp" />
     <ClCompile Include="PermMissingElem.cpp" />
     <ClCompile Include="TapeEquilibrium.cpp" />
   </ItemGroup>
