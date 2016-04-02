@@ -80,6 +80,7 @@
   <ItemGroup>
     <ClCompile Include="BinaryGap.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
+    <ClCompile Include="OddOccurrencesInArray.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

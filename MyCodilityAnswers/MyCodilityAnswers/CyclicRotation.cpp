@@ -1,5 +1,9 @@
 ﻿#include <vector>
 using namespace std;
+
+/*
+Rotates Array to right for amount of K.
+*/
 vector<int> solution(vector<int> &A, int K) 
 {
 	// write your code in C++11 (g++ 4.8.2)

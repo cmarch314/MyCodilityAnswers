@@ -21,5 +21,8 @@
     <ClCompile Include="CyclicRotation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="OddOccurrencesInArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

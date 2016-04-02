@@ -1,4 +1,7 @@
 // write your code in C++11 (g++ 4.8.2)
+
+/*Counts "0"s in binary form between any "1"s
+*/
 int solution(int N) {
 
 	int count = 0, maxGab = 0;
