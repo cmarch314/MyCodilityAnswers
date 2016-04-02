@@ -82,6 +82,7 @@
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
+    <ClCompile Include="PermMissingElem.cpp" />
     <ClCompile Include="TapeEquilibrium.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
