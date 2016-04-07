@@ -48,5 +48,8 @@
     <ClCompile Include="PassingCars.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CountDiv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

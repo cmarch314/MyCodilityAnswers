@@ -79,6 +79,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BinaryGap.cpp" />
+    <ClCompile Include="CountDiv.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="FrogRiverOne.cpp" />
