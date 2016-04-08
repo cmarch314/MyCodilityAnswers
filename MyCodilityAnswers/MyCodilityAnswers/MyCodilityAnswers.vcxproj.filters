@@ -78,5 +78,8 @@
     <ClCompile Include="Triangle.cpp">
       <Filter>Source Files\Lesson 6</Filter>
     </ClCompile>
+    <ClCompile Include="MaxProductOfThree.cpp">
+      <Filter>Source Files\Lesson 6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
