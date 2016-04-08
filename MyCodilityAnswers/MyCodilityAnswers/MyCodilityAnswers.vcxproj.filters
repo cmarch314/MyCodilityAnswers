@@ -51,5 +51,8 @@
     <ClCompile Include="CountDiv.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GenomicRangeQuery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
