@@ -13,49 +13,67 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Lesson 6">
+      <UniqueIdentifier>{6309e6f2-9b55-422a-adde-4cbff54db3c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 5">
+      <UniqueIdentifier>{a888f976-6a6a-4fd0-b89a-3408833758bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 4">
+      <UniqueIdentifier>{55ee41f8-b512-4f5e-9419-ab57c592f389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 3">
+      <UniqueIdentifier>{50a0cab9-68df-4208-aa76-7bef49b42f12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 1,2">
+      <UniqueIdentifier>{245ff8a9-003d-4f83-b4e3-09ed6937f015}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BinaryGap.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CyclicRotation.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="OddOccurrencesInArray.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FrogJmp.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TapeEquilibrium.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PermMissingElem.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FrogRiverOne.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PermCheck.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MissingInteger.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MaxCounters.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Distinct.cpp">
+      <Filter>Source Files\Lesson 6</Filter>
     </ClCompile>
     <ClCompile Include="PassingCars.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Lesson 5</Filter>
     </ClCompile>
     <ClCompile Include="CountDiv.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Lesson 5</Filter>
     </ClCompile>
     <ClCompile Include="GenomicRangeQuery.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Lesson 5</Filter>
     </ClCompile>
     <ClCompile Include="MinAvgTwoSlice.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Lesson 5</Filter>
+    </ClCompile>
+    <ClCompile Include="FrogRiverOne.cpp">
+      <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+    <ClCompile Include="PermCheck.cpp">
+      <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+    <ClCompile Include="MissingInteger.cpp">
+      <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxCounters.cpp">
+      <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+    <ClCompile Include="FrogJmp.cpp">
+      <Filter>Source Files\Lesson 3</Filter>
+    </ClCompile>
+    <ClCompile Include="TapeEquilibrium.cpp">
+      <Filter>Source Files\Lesson 3</Filter>
+    </ClCompile>
+    <ClCompile Include="PermMissingElem.cpp">
+      <Filter>Source Files\Lesson 3</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryGap.cpp">
+      <Filter>Source Files\Lesson 1,2</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclicRotation.cpp">
+      <Filter>Source Files\Lesson 1,2</Filter>
+    </ClCompile>
+    <ClCompile Include="OddOccurrencesInArray.cpp">
+      <Filter>Source Files\Lesson 1,2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
