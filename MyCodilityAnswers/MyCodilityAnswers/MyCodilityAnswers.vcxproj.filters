@@ -54,5 +54,8 @@
     <ClCompile Include="GenomicRangeQuery.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MinAvgTwoSlice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -85,6 +85,7 @@
     <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="GenomicRangeQuery.cpp" />
     <ClCompile Include="MaxCounters.cpp" />
+    <ClCompile Include="MinAvgTwoSlice.cpp" />
     <ClCompile Include="MissingInteger.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
     <ClCompile Include="PassingCars.cpp" />
