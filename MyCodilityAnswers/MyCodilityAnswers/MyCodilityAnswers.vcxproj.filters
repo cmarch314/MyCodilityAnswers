@@ -96,5 +96,8 @@
     <ClCompile Include="Nesting.cpp">
       <Filter>Source Files\Lesson 7</Filter>
     </ClCompile>
+    <ClCompile Include="StoneWall.cpp">
+      <Filter>Source Files\Lesson 7</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

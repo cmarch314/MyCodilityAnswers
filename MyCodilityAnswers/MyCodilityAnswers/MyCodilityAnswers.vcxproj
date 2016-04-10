@@ -97,6 +97,7 @@
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="PermCheck.cpp" />
     <ClCompile Include="PermMissingElem.cpp" />
+    <ClCompile Include="StoneWall.cpp" />
     <ClCompile Include="TapeEquilibrium.cpp" />
     <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
