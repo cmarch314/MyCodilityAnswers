@@ -89,6 +89,7 @@
     <ClCompile Include="MaxProductOfThree.cpp" />
     <ClCompile Include="MinAvgTwoSlice.cpp" />
     <ClCompile Include="MissingInteger.cpp" />
+    <ClCompile Include="NumberOfDiscIntersections.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="PermCheck.cpp" />
