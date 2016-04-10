@@ -28,6 +28,9 @@
     <Filter Include="Source Files\Lesson 1,2">
       <UniqueIdentifier>{245ff8a9-003d-4f83-b4e3-09ed6937f015}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 7">
+      <UniqueIdentifier>{98b753d8-85e5-4da6-b467-a9d67e313b97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Distinct.cpp">
@@ -83,6 +86,9 @@
     </ClCompile>
     <ClCompile Include="NumberOfDiscIntersections.cpp">
       <Filter>Source Files\Lesson 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Brackets.cpp">
+      <Filter>Source Files\Lesson 7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
