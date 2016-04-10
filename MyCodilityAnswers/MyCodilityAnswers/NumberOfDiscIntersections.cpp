@@ -5,6 +5,38 @@ and flag for its in and out. (initially 0 meaning not in yet)
 once all meeting point added we can sort the points however inserting points order matters because of the circle that has length 0.
 so we have to loop the begin point first and end point last. 
 then sort to proceed prefix problem. (just like car passing problem)
+
+example:
+assume for each center X and its radius r, bX is begin eX is end where bX = X-r, eX = X+r then
+then figure of X = 0 and R = 1 will be
+(-3)-(-2)-[bX]-(0)-[eX]-(2)-(3)
+
+let say we have two element X ,Y and Z where X = 0 and Y = 1 and its corresponding radius is 1,2 and 0.
+then figure will be
+(-3)-(-2)-[bX]-(0)-[eX]-(2)-(3)
+(-3)-(-2)-[bY]-(0)-(1)-(2)-[eY]
+(-3)-(-2)-(-1)-(0)-(1)-(2)-[bZ][eZ]-(4)
+
+then the algorithm will construct array 
+[-1,X][-1,Y][3,Z][2,X][3,Y][3,Z]
+(	all begins	)(	all ends	)
+as it pushes from each begin, then each end.
+
+notice that merge sort will put the end point to right side when the same value compares.
+just because the end point was constructed on right side.
+
+after merge sort
+[-1,X][-1,Y][2,X][3,Y][3,Z][3,Z]
+
+then prefix will calculate the intersections.
+[-1,X] 0
+[-1,Y] 1
+[2,X] 1
+[3,Y] 1
+[3,Z] 1
+[3,Z] 1
+
+result = 1.
 */
 
 
