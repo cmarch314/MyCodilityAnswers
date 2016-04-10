@@ -83,6 +83,7 @@
     <ClCompile Include="CountDiv.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="Distinct.cpp" />
+    <ClCompile Include="Fish.cpp" />
     <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="GenomicRangeQuery.cpp" />
