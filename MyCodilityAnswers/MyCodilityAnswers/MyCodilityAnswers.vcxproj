@@ -90,6 +90,7 @@
     <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="GenomicRangeQuery.cpp" />
     <ClCompile Include="MaxCounters.cpp" />
+    <ClCompile Include="MaxDoubleSliceSum.cpp" />
     <ClCompile Include="MaxProductOfThree.cpp" />
     <ClCompile Include="MaxProfit.cpp" />
     <ClCompile Include="MinAvgTwoSlice.cpp" />
