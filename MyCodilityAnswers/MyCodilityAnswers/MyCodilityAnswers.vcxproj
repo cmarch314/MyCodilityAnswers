@@ -95,6 +95,7 @@
     <ClCompile Include="MaxProfit.cpp" />
     <ClCompile Include="MaxSliceSum.cpp" />
     <ClCompile Include="MinAvgTwoSlice.cpp" />
+    <ClCompile Include="MinPerimeterRectangle.cpp" />
     <ClCompile Include="MissingInteger.cpp" />
     <ClCompile Include="Nesting.cpp" />
     <ClCompile Include="NumberOfDiscIntersections.cpp" />

@@ -37,6 +37,9 @@
     <Filter Include="Source Files\Lesson 9">
       <UniqueIdentifier>{5c8f4670-b079-48a7-beac-e1b66bee73e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 10">
+      <UniqueIdentifier>{8ff86c27-b949-4138-b5be-7fe1c1e892bd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Distinct.cpp">
@@ -119,6 +122,9 @@
     </ClCompile>
     <ClCompile Include="MaxSliceSum.cpp">
       <Filter>Source Files\Lesson 9</Filter>
+    </ClCompile>
+    <ClCompile Include="MinPerimeterRectangle.cpp">
+      <Filter>Source Files\Lesson 10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
