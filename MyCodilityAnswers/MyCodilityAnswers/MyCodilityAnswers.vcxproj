@@ -81,6 +81,7 @@
     <ClCompile Include="BinaryGap.cpp" />
     <ClCompile Include="Brackets.cpp" />
     <ClCompile Include="CountDiv.cpp" />
+    <ClCompile Include="CountFactors.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="Distinct.cpp" />
     <ClCompile Include="Dominator.cpp" />
