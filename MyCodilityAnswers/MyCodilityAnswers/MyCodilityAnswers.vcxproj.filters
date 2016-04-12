@@ -117,5 +117,8 @@
     <ClCompile Include="MaxDoubleSliceSum.cpp">
       <Filter>Source Files\Lesson 9</Filter>
     </ClCompile>
+    <ClCompile Include="MaxSliceSum.cpp">
+      <Filter>Source Files\Lesson 9</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
