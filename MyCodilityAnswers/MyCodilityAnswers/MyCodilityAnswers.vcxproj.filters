@@ -31,6 +31,9 @@
     <Filter Include="Source Files\Lesson 7">
       <UniqueIdentifier>{98b753d8-85e5-4da6-b467-a9d67e313b97}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 8">
+      <UniqueIdentifier>{8dc750bd-3d7f-4b15-bca9-89d6f3e94d8d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Distinct.cpp">
@@ -98,6 +101,9 @@
     </ClCompile>
     <ClCompile Include="StoneWall.cpp">
       <Filter>Source Files\Lesson 7</Filter>
+    </ClCompile>
+    <ClCompile Include="EquiLeader.cpp">
+      <Filter>Source Files\Lesson 8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
