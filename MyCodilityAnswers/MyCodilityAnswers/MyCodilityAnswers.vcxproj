@@ -91,6 +91,7 @@
     <ClCompile Include="GenomicRangeQuery.cpp" />
     <ClCompile Include="MaxCounters.cpp" />
     <ClCompile Include="MaxProductOfThree.cpp" />
+    <ClCompile Include="MaxProfit.cpp" />
     <ClCompile Include="MinAvgTwoSlice.cpp" />
     <ClCompile Include="MissingInteger.cpp" />
     <ClCompile Include="Nesting.cpp" />

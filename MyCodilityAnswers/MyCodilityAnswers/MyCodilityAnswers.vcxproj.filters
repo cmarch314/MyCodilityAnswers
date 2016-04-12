@@ -34,6 +34,9 @@
     <Filter Include="Source Files\Lesson 8">
       <UniqueIdentifier>{8dc750bd-3d7f-4b15-bca9-89d6f3e94d8d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 9">
+      <UniqueIdentifier>{5c8f4670-b079-48a7-beac-e1b66bee73e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Distinct.cpp">
@@ -107,6 +110,9 @@
     </ClCompile>
     <ClCompile Include="Dominator.cpp">
       <Filter>Source Files\Lesson 8</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxProfit.cpp">
+      <Filter>Source Files\Lesson 9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
