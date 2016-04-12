@@ -105,5 +105,8 @@
     <ClCompile Include="EquiLeader.cpp">
       <Filter>Source Files\Lesson 8</Filter>
     </ClCompile>
+    <ClCompile Include="Dominator.cpp">
+      <Filter>Source Files\Lesson 8</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
