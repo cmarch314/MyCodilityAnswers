@@ -129,5 +129,8 @@
     <ClCompile Include="CountFactors.cpp">
       <Filter>Source Files\Lesson 10</Filter>
     </ClCompile>
+    <ClCompile Include="Peaks.cpp">
+      <Filter>Source Files\Lesson 10</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

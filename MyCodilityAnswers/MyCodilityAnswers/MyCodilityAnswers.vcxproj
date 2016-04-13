@@ -102,6 +102,7 @@
     <ClCompile Include="NumberOfDiscIntersections.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
     <ClCompile Include="PassingCars.cpp" />
+    <ClCompile Include="Peaks.cpp" />
     <ClCompile Include="PermCheck.cpp" />
     <ClCompile Include="PermMissingElem.cpp" />
     <ClCompile Include="StoneWall.cpp" />
