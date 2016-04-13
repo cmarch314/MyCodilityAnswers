@@ -87,6 +87,7 @@
     <ClCompile Include="Dominator.cpp" />
     <ClCompile Include="EquiLeader.cpp" />
     <ClCompile Include="Fish.cpp" />
+    <ClCompile Include="Flags.cpp" />
     <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="GenomicRangeQuery.cpp" />
