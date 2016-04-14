@@ -40,6 +40,9 @@
     <Filter Include="Source Files\Lesson 10">
       <UniqueIdentifier>{8ff86c27-b949-4138-b5be-7fe1c1e892bd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 11">
+      <UniqueIdentifier>{0b6ed072-f0aa-449a-a49c-f1129138398a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Distinct.cpp">
@@ -134,6 +137,9 @@
     </ClCompile>
     <ClCompile Include="Flags.cpp">
       <Filter>Source Files\Lesson 10</Filter>
+    </ClCompile>
+    <ClCompile Include="CountSemiprimes.cpp">
+      <Filter>Source Files\Lesson 11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
