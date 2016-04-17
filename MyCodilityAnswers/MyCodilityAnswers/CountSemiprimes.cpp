@@ -33,7 +33,9 @@ semiPrime[2] + semiPrime[4] + 1 = 1+3+1 = 5
 
 #include <vector>
 using namespace std;
-
+/*@param. N: integer range 0 to N. P,Q:pair of sequence to find semiprimes
+@return. finds integers from P[i] to Q[i] such that only its factor is two prime number.
+*/
 vector<int> solution(int N, vector<int> &P, vector<int> &Q) {
 	vector<int> semiPrimes(N + 1, 1);
 	vector<int> prefixes(N + 1, 0);

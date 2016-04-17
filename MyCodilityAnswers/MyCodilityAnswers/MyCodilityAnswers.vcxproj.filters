@@ -43,6 +43,9 @@
     <Filter Include="Source Files\Lesson 11">
       <UniqueIdentifier>{0b6ed072-f0aa-449a-a49c-f1129138398a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 12">
+      <UniqueIdentifier>{de5b1fd8-02f3-4292-8e8c-7a3e185dff74}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Distinct.cpp">
