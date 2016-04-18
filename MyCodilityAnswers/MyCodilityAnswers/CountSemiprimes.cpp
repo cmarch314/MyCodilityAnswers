@@ -27,7 +27,6 @@ as you can see all prime number remains 1 which no integer could increment it
 ergo semiPrime[6] = 1+1+1
 8 has 5 factor as it represents
 semiPrime[2] + semiPrime[4] + 1 = 1+3+1 = 5
-
 */
 
 
