@@ -35,6 +35,13 @@ each sequence will be
 
 #include <vector>
 using namespace std;
+
+/*
+helper function for Peaks.cpp 
+@param: X: list of peaks index (=location),  gap: required distance between peaks, goal: number of peaks to find.
+@return: if X contains number of goal peaks which their distance is greater than gap (peaks can be ignored )
+example goal is 2 and distance is 3 then indexes 1,2,5 will return true ignoring index of 2
+*/
 bool allContains(vector<int> X, int gap, int goal)
 {
 	int index = 0;
