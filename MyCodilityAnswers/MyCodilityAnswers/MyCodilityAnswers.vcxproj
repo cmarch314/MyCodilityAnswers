@@ -82,6 +82,7 @@
     <ClCompile Include="Brackets.cpp" />
     <ClCompile Include="CountDiv.cpp" />
     <ClCompile Include="CountFactors.cpp" />
+    <ClCompile Include="CountNoneDivisible%28sort%29.cpp" />
     <ClCompile Include="CountSemiprimes.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="Distinct.cpp" />

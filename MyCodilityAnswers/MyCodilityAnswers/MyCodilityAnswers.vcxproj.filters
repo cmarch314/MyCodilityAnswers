@@ -144,5 +144,8 @@
     <ClCompile Include="CountSemiprimes.cpp">
       <Filter>Source Files\Lesson 11</Filter>
     </ClCompile>
+    <ClCompile Include="CountNoneDivisible%28sort%29.cpp">
+      <Filter>Source Files\Lesson 11</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
