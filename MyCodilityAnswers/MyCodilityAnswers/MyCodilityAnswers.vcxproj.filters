@@ -156,5 +156,8 @@
     <ClCompile Include="CommonPrimeDivisors%28BruteForce%29.cpp">
       <Filter>Source Files\Lesson 12</Filter>
     </ClCompile>
+    <ClCompile Include="CommonPrimeDivisors.cpp">
+      <Filter>Source Files\Lesson 12</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
