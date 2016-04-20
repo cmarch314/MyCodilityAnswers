@@ -147,5 +147,11 @@
     <ClCompile Include="CountNoneDivisible%28sort%29.cpp">
       <Filter>Source Files\Lesson 11</Filter>
     </ClCompile>
+    <ClCompile Include="CountNonDivisible.cpp">
+      <Filter>Source Files\Lesson 11</Filter>
+    </ClCompile>
+    <ClCompile Include="ChocolatesByNumbers.cpp">
+      <Filter>Source Files\Lesson 12</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
