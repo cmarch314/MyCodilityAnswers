@@ -81,6 +81,7 @@
     <ClCompile Include="BinaryGap.cpp" />
     <ClCompile Include="Brackets.cpp" />
     <ClCompile Include="ChocolatesByNumbers.cpp" />
+    <ClCompile Include="CommonPrimeDivisors%28BruteForce%29.cpp" />
     <ClCompile Include="CountDiv.cpp" />
     <ClCompile Include="CountFactors.cpp" />
     <ClCompile Include="CountNonDivisible.cpp" />
