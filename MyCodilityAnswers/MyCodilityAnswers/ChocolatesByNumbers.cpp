@@ -2,6 +2,7 @@
 the algorithm finds least common multiplier, (LCM). 
 returns LCM/M. which is answer of the question.
 
+100% correct. 
 */
 
 #include <vector>
@@ -9,9 +10,13 @@ returns LCM/M. which is answer of the question.
 using namespace std;
 
 int solution(int N, int M) {
-	//looking for GCD
-	int scm = N, term = M;
-	map<int, int> n, m, common;
+	//looking for LCM
+	//since LCM(N,M) may cause overflow. I used N ,M
+	double scm = N, term = M;
+	//n , m = list of factors of N and M
+	map<int, int> n, m;
+	
+	//find factor of N
 	int i = 2;
 	while (i*i <= N)
 	{
@@ -40,6 +45,8 @@ int solution(int N, int M) {
 	{
 		n[N]++;
 	}
+
+	//find factor of M
 	i = 2;
 	while (i*i <= M)
 	{
@@ -68,6 +75,8 @@ int solution(int N, int M) {
 	{
 		m[M]++;
 	}
+
+	//calculate LCM , (finds missing factors and multiply it)
 	for (map<int, int>::iterator it = m.begin(); it != m.end(); it++)
 	{
 		if (n.find(it->first) == n.end())
@@ -85,5 +94,7 @@ int solution(int N, int M) {
 			}
 		}
 	}
+
+	
 	return scm / term;
 }
