@@ -46,6 +46,9 @@
     <Filter Include="Source Files\Lesson 12">
       <UniqueIdentifier>{de5b1fd8-02f3-4292-8e8c-7a3e185dff74}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 13">
+      <UniqueIdentifier>{6c8ebe27-377b-4d6a-b64e-2eb187cdf34f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Distinct.cpp">
@@ -158,6 +161,9 @@
     </ClCompile>
     <ClCompile Include="CommonPrimeDivisors.cpp">
       <Filter>Source Files\Lesson 12</Filter>
+    </ClCompile>
+    <ClCompile Include="FibFrog.cpp">
+      <Filter>Source Files\Lesson 13</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -92,6 +92,7 @@
     <ClCompile Include="Distinct.cpp" />
     <ClCompile Include="Dominator.cpp" />
     <ClCompile Include="EquiLeader.cpp" />
+    <ClCompile Include="FibFrog.cpp" />
     <ClCompile Include="Fish.cpp" />
     <ClCompile Include="Flags.cpp" />
     <ClCompile Include="FrogJmp.cpp" />
