@@ -165,5 +165,8 @@
     <ClCompile Include="FibFrog.cpp">
       <Filter>Source Files\Lesson 13</Filter>
     </ClCompile>
+    <ClCompile Include="Ladder.cpp">
+      <Filter>Source Files\Lesson 13</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

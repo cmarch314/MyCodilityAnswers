@@ -98,6 +98,7 @@
     <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="FrogRiverOne.cpp" />
     <ClCompile Include="GenomicRangeQuery.cpp" />
+    <ClCompile Include="Ladder.cpp" />
     <ClCompile Include="MaxCounters.cpp" />
     <ClCompile Include="MaxDoubleSliceSum.cpp" />
     <ClCompile Include="MaxProductOfThree.cpp" />
