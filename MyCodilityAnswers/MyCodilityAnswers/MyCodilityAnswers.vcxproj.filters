@@ -49,6 +49,12 @@
     <Filter Include="Source Files\Lesson 13">
       <UniqueIdentifier>{6c8ebe27-377b-4d6a-b64e-2eb187cdf34f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 14">
+      <UniqueIdentifier>{16f3d190-727e-405a-8f5d-5f26c7ece2b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 15">
+      <UniqueIdentifier>{2d731730-b681-4fec-98ae-0067d6c584e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Distinct.cpp">
@@ -167,6 +173,12 @@
     </ClCompile>
     <ClCompile Include="Ladder.cpp">
       <Filter>Source Files\Lesson 13</Filter>
+    </ClCompile>
+    <ClCompile Include="MinMaxDivision.cpp">
+      <Filter>Source Files\Lesson 14</Filter>
+    </ClCompile>
+    <ClCompile Include="AbsDistinct.cpp">
+      <Filter>Source Files\Lesson 15</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

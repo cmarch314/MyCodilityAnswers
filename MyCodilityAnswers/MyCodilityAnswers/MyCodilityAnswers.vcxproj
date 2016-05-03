@@ -78,6 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AbsDistinct.cpp" />
     <ClCompile Include="BinaryGap.cpp" />
     <ClCompile Include="Brackets.cpp" />
     <ClCompile Include="ChocolatesByNumbers.cpp" />
@@ -105,6 +106,7 @@
     <ClCompile Include="MaxProfit.cpp" />
     <ClCompile Include="MaxSliceSum.cpp" />
     <ClCompile Include="MinAvgTwoSlice.cpp" />
+    <ClCompile Include="MinMaxDivision.cpp" />
     <ClCompile Include="MinPerimeterRectangle.cpp" />
     <ClCompile Include="MissingInteger.cpp" />
     <ClCompile Include="Nesting.cpp" />
