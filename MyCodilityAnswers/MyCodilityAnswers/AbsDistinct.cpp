@@ -9,6 +9,8 @@ int solution(vector<int> &A) {
 	unordered_set<int> distinct;
 	int size = A.size();
 
+
+
 	for (int i = 0; i < size; i++)
 	{
 		distinct.insert(abs(A[i]));

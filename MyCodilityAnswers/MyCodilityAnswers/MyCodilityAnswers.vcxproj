@@ -89,6 +89,7 @@
     <ClCompile Include="CountNonDivisible.cpp" />
     <ClCompile Include="CountNoneDivisible%28sort%29.cpp" />
     <ClCompile Include="CountSemiprimes.cpp" />
+    <ClCompile Include="CountTriangles.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
     <ClCompile Include="Distinct.cpp" />
     <ClCompile Include="Dominator.cpp" />
@@ -105,6 +106,7 @@
     <ClCompile Include="MaxProductOfThree.cpp" />
     <ClCompile Include="MaxProfit.cpp" />
     <ClCompile Include="MaxSliceSum.cpp" />
+    <ClCompile Include="MinAbsSumOfTwo.cpp" />
     <ClCompile Include="MinAvgTwoSlice.cpp" />
     <ClCompile Include="MinMaxDivision.cpp" />
     <ClCompile Include="MinPerimeterRectangle.cpp" />

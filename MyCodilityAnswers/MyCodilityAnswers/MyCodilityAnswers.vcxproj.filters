@@ -180,5 +180,11 @@
     <ClCompile Include="AbsDistinct.cpp">
       <Filter>Source Files\Lesson 15</Filter>
     </ClCompile>
+    <ClCompile Include="CountTriangles.cpp">
+      <Filter>Source Files\Lesson 15</Filter>
+    </ClCompile>
+    <ClCompile Include="MinAbsSumOfTwo.cpp">
+      <Filter>Source Files\Lesson 15</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
