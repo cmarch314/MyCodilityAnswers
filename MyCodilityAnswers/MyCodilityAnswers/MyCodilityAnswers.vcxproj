@@ -113,6 +113,7 @@
     <ClCompile Include="MissingInteger.cpp" />
     <ClCompile Include="Nesting.cpp" />
     <ClCompile Include="NumberOfDiscIntersections.cpp" />
+    <ClCompile Include="NumberSolitaire.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="Peaks.cpp" />
