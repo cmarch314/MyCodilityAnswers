@@ -55,6 +55,9 @@
     <Filter Include="Source Files\Lesson 15">
       <UniqueIdentifier>{2d731730-b681-4fec-98ae-0067d6c584e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson 16">
+      <UniqueIdentifier>{290a5825-d1fc-4a58-a3f9-fcb8e0ac45df}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files\Lesson 17">
       <UniqueIdentifier>{4e74eeaf-7926-4033-93f5-4ccebf970d84}</UniqueIdentifier>
     </Filter>
@@ -191,6 +194,9 @@
     </ClCompile>
     <ClCompile Include="NumberSolitaire.cpp">
       <Filter>Source Files\Lesson 17</Filter>
+    </ClCompile>
+    <ClCompile Include="TieRopes.cpp">
+      <Filter>Source Files\Lesson 16</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

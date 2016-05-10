@@ -121,6 +121,7 @@
     <ClCompile Include="PermMissingElem.cpp" />
     <ClCompile Include="StoneWall.cpp" />
     <ClCompile Include="TapeEquilibrium.cpp" />
+    <ClCompile Include="TieRopes.cpp" />
     <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
