@@ -1,0 +1,151 @@
+﻿Build started 4/19/2016 8:05:05 PM.
+     1>Project "C:\Users\Choi\Source\Repos\MyCodilityAnswers\MyCodilityAnswers\MyCodilityAnswers\MyCodilityAnswers.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BinaryGap.cpp Brackets.cpp ChocolatesByNumbers.cpp CommonPrimeDivisors.cpp CountDiv.cpp CountFactors.cpp CountNonDivisible.cpp "CountNoneDivisible(sort).cpp" CountSemiprimes.cpp CyclicRotation.cpp Distinct.cpp Dominator.cpp EquiLeader.cpp Fish.cpp Flags.cpp FrogJmp.cpp FrogRiverOne.cpp GenomicRangeQuery.cpp MaxCounters.cpp MaxDoubleSliceSum.cpp MaxProductOfThree.cpp MaxProfit.cpp MaxSliceSum.cpp MinAvgTwoSlice.cpp MinPerimeterRectangle.cpp MissingInteger.cpp Nesting.cpp NumberOfDiscIntersections.cpp OddOccurrencesInArray.cpp PassingCars.cpp Peaks.cpp PermCheck.cpp PermMissingElem.cpp StoneWall.cpp TapeEquilibrium.cpp Triangle.cpp
+         Triangle.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\triangle.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\triangle.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+         TapeEquilibrium.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\tapeequilibrium.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+         StoneWall.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\stonewall.cpp(17): warning C4018: '<' : signed/unsigned mismatch
+         PermMissingElem.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\permmissingelem.cpp(8): warning C4018: '<' : signed/unsigned mismatch
+         PermCheck.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\permcheck.cpp(7): warning C4018: '<' : signed/unsigned mismatch
+         Peaks.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\peaks.cpp(50): warning C4018: '<' : signed/unsigned mismatch
+         PassingCars.cpp
+         OddOccurrencesInArray.cpp
+         NumberOfDiscIntersections.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\numberofdiscintersections.cpp(56): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\numberofdiscintersections.cpp(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\numberofdiscintersections.cpp(66): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\numberofdiscintersections.cpp(68): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\numberofdiscintersections.cpp(72): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\numberofdiscintersections.cpp(81): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+         Nesting.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\nesting.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+         MissingInteger.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\missinginteger.cpp(6): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\missinginteger.cpp(9): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\missinginteger.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+         MinPerimeterRectangle.cpp
+         MinAvgTwoSlice.cpp
+         MaxSliceSum.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\maxslicesum.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\maxslicesum.cpp(24): warning C4018: '<' : signed/unsigned mismatch
+         MaxProfit.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\maxprofit.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+         MaxProductOfThree.cpp
+         MaxDoubleSliceSum.cpp
+         MaxCounters.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\maxcounters.cpp(8): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\maxcounters.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+         GenomicRangeQuery.cpp
+         FrogRiverOne.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\frogriverone.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         FrogJmp.cpp
+         Flags.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\flags.cpp(46): warning C4018: '<' : signed/unsigned mismatch
+         Fish.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\fish.cpp(17): warning C4018: '<' : signed/unsigned mismatch
+         EquiLeader.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\equileader.cpp(24): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\equileader.cpp(39): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\equileader.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+         Dominator.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\dominator.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\dominator.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\dominator.cpp(52): warning C4018: '>' : signed/unsigned mismatch
+         Distinct.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\distinct.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+         CyclicRotation.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\cyclicrotation.cpp(18): warning C4018: '<' : signed/unsigned mismatch
+         CountSemiprimes.cpp
+         CountNoneDivisible(sort).cpp
+         CountNonDivisible.cpp
+         CountFactors.cpp
+         CountDiv.cpp
+         CommonPrimeDivisors.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\commonprimedivisors.cpp(11): warning C4804: '<=' : unsafe use of type 'bool' in operation
+         ChocolatesByNumbers.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\chocolatesbynumbers.cpp(99): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+         Brackets.cpp
+     1>c:\users\choi\source\repos\mycodilityanswers\mycodilityanswers\mycodilityanswers\brackets.cpp(10): warning C4018: '<' : signed/unsigned mismatch
+         BinaryGap.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Choi\Source\Repos\MyCodilityAnswers\MyCodilityAnswers\Debug\MyCodilityAnswers.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Choi\Source\Repos\MyCodilityAnswers\MyCodilityAnswers\Debug\MyCodilityAnswers.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Choi\Source\Repos\MyCodilityAnswers\MyCodilityAnswers\Debug\MyCodilityAnswers.lib" /MACHINE:X86 Debug\BinaryGap.obj
+         Debug\Brackets.obj
+         Debug\ChocolatesByNumbers.obj
+         Debug\CommonPrimeDivisors.obj
+         Debug\CountDiv.obj
+         Debug\CountFactors.obj
+         Debug\CountNonDivisible.obj
+         "Debug\CountNoneDivisible(sort).obj"
+         Debug\CountSemiprimes.obj
+         Debug\CyclicRotation.obj
+         Debug\Distinct.obj
+         Debug\Dominator.obj
+         Debug\EquiLeader.obj
+         Debug\Fish.obj
+         Debug\Flags.obj
+         Debug\FrogJmp.obj
+         Debug\FrogRiverOne.obj
+         Debug\GenomicRangeQuery.obj
+         Debug\MaxCounters.obj
+         Debug\MaxDoubleSliceSum.obj
+         Debug\MaxProductOfThree.obj
+         Debug\MaxProfit.obj
+         Debug\MaxSliceSum.obj
+         Debug\MinAvgTwoSlice.obj
+         Debug\MinPerimeterRectangle.obj
+         Debug\MissingInteger.obj
+         Debug\Nesting.obj
+         Debug\NumberOfDiscIntersections.obj
+         Debug\OddOccurrencesInArray.obj
+         Debug\PassingCars.obj
+         Debug\Peaks.obj
+         Debug\PermCheck.obj
+         Debug\PermMissingElem.obj
+         Debug\StoneWall.obj
+         Debug\TapeEquilibrium.obj
+         Debug\Triangle.obj
+     1>CountFactors.obj : error LNK2005: "int __cdecl solution(int)" (?solution@@YAHH@Z) already defined in BinaryGap.obj
+     1>Distinct.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl merge(class std::vector<int,class std::allocator<int> >,class std::vector<int,class std::allocator<int> >)" (?merge@@YA?AV?$vector@HV?$allocator@H@std@@@std@@V12@0@Z) already defined in CountNoneDivisible(sort).obj
+     1>Distinct.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl merge_sort(class std::vector<int,class std::allocator<int> >)" (?merge_sort@@YA?AV?$vector@HV?$allocator@H@std@@@std@@V12@@Z) already defined in CountNoneDivisible(sort).obj
+     1>Dominator.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>EquiLeader.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>Fish.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &,class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@0@Z) already defined in CommonPrimeDivisors.obj
+     1>Flags.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>FrogJmp.obj : error LNK2005: "int __cdecl solution(int,int,int)" (?solution@@YAHHHH@Z) already defined in CountDiv.obj
+     1>MaxDoubleSliceSum.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>MaxProductOfThree.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl merge(class std::vector<int,class std::allocator<int> >,class std::vector<int,class std::allocator<int> >)" (?merge@@YA?AV?$vector@HV?$allocator@H@std@@@std@@V12@0@Z) already defined in CountNoneDivisible(sort).obj
+     1>MaxProductOfThree.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl merge_sort(class std::vector<int,class std::allocator<int> >)" (?merge_sort@@YA?AV?$vector@HV?$allocator@H@std@@@std@@V12@@Z) already defined in CountNoneDivisible(sort).obj
+     1>MaxProductOfThree.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>MaxProfit.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>MaxSliceSum.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>MinAvgTwoSlice.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>MinPerimeterRectangle.obj : error LNK2005: "int __cdecl solution(int)" (?solution@@YAHH@Z) already defined in BinaryGap.obj
+     1>MissingInteger.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>Nesting.obj : error LNK2005: "int __cdecl solution(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?solution@@YAHAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Brackets.obj
+     1>NumberOfDiscIntersections.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>OddOccurrencesInArray.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>PassingCars.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>Peaks.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>PermCheck.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>PermMissingElem.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>StoneWall.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>TapeEquilibrium.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>Triangle.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl merge(class std::vector<int,class std::allocator<int> >,class std::vector<int,class std::allocator<int> >)" (?merge@@YA?AV?$vector@HV?$allocator@H@std@@@std@@V12@0@Z) already defined in CountNoneDivisible(sort).obj
+     1>Triangle.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl merge_sort(class std::vector<int,class std::allocator<int> >)" (?merge_sort@@YA?AV?$vector@HV?$allocator@H@std@@@std@@V12@@Z) already defined in CountNoneDivisible(sort).obj
+     1>Triangle.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Distinct.obj
+     1>C:\Users\Choi\Source\Repos\MyCodilityAnswers\MyCodilityAnswers\Debug\MyCodilityAnswers.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\Users\Choi\Source\Repos\MyCodilityAnswers\MyCodilityAnswers\MyCodilityAnswers\MyCodilityAnswers.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:08.28
